@@ -1,0 +1,16 @@
+name: project
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - spyder
+  - gdal
+  - shapely
+  - pandas
+  - geopandas
+  - fiona
+  - owslib
+  - folium
+  - osmnx
+  - contextily
+  - pyproj
